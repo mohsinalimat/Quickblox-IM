@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface LJFRegisterVC : UIViewController
+@interface LJFRegisterVC : LJFBaseVC
 
 @end

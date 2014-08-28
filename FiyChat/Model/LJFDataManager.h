@@ -9,5 +9,10 @@
 #import <Foundation/Foundation.h>
 
 @interface LJFDataManager : NSObject
++ (LJFDataManager *)sheard;
++ (void)disConnect;
+
+@property (nonatomic,strong)QBUUser *currentQBUser;
+
 
 @end

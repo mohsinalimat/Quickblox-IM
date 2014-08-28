@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface LJFRosterVC : UIViewController
+@interface LJFRosterVC : LJFBaseVC<UITableViewDataSource,UITableViewDelegate,UISearchBarDelegate,UISearchDisplayDelegate,UIScrollViewDelegate>
 
 @end

@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface LJFLoginVC : UIViewController
+@interface LJFLoginVC : LJFBaseVC
 
 @end

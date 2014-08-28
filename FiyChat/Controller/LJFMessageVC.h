@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface LJFMessageVC : UIViewController
+@interface LJFMessageVC : LJFBaseVC<UITableViewDataSource,UITableViewDelegate>
+
+@property (nonatomic,assign) NSInteger recipientID;
 
 @end

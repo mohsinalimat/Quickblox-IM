@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FF7B9599-1212-4E2D-8690-D938EC11A507</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FiyChat</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>8F39F3F2-9A22-42F8-94BE-A8A577AA94F9</key>
+		<string>ssh://github.com/lijianfei1023/Quickblox-IM.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FiyChat.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>8F39F3F2-9A22-42F8-94BE-A8A577AA94F9</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/lijianfei1023/Quickblox-IM.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>8F39F3F2-9A22-42F8-94BE-A8A577AA94F9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8F39F3F2-9A22-42F8-94BE-A8A577AA94F9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>FiyChat</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface LJFRoomMessageVC : UIViewController
+@interface LJFRoomMessageVC : LJFBaseVC
+
+@property(nonatomic,strong)QBChatRoom *nowRoom;
 
 @end

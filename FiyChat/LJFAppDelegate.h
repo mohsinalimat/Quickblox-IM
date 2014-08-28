@@ -7,9 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
-
-@interface LJFAppDelegate : UIResponder <UIApplicationDelegate>
-
+#import "MBProgressHUD.h"
+@interface LJFAppDelegate : UIResponder <UIApplicationDelegate,QBActionStatusDelegate,MBProgressHUDDelegate>
+{
+	MBProgressHUD *HUD;
+}
 @property (strong, nonatomic) UIWindow *window;
 
 @end

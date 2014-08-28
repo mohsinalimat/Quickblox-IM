@@ -7,7 +7,12 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "MBProgressHUD.h"
 
-@interface LJFBaseVC : UIViewController
+@interface LJFBaseVC : UIViewController<UITextFieldDelegate,MBProgressHUDDelegate>
+{
+	MBProgressHUD *HUD;
+}
+
 
 @end

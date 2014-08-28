@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface LJFRoomVC : UIViewController
+@interface LJFRoomVC : LJFBaseVC<UITableViewDataSource,UITableViewDelegate,UISearchBarDelegate,UISearchDisplayDelegate,QBChatDelegate>
 
 @end

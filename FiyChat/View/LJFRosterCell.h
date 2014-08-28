@@ -10,4 +10,9 @@
 
 @interface LJFRosterCell : UITableViewCell
 
+@property (weak, nonatomic) IBOutlet UIImageView *photoImageView;
+
+@property (weak, nonatomic) IBOutlet UILabel *userNameLabel;
+
+
 @end

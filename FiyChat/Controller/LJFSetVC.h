@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface LJFSetVC : UIViewController
+@interface LJFSetVC : LJFBaseVC<UITableViewDataSource,UITableViewDelegate>
 
 @end
